@@ -13,6 +13,7 @@ Full source code to make an ajax cart sidebar when custom click 'add to cart' Bt
 
 ## Small updates your theme
 1. In header seciton, add 'data-drawer-trigger aria-controls="drawer-name" aria-expanded="false"' attrs to cart icon's anchor 
+
 For example: 
 ```
 <a href="/cart" data-drawer-trigger aria-controls="drawer-name" aria-expanded="false" class="btn-link btn-lg">{% include "svg-cart" %}</a>
