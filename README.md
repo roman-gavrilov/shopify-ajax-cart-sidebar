@@ -1,5 +1,5 @@
 # shopify-ajax-cart-sidebar
-Full source code to make an ajax cart sidebar when custom click 'add to cart' Btn. You don't need to use an app and you can make it by yourself! I will take only 5 mins to install it on your theme
+Full source code to make an ajax cart sidebar when custom click 'add to cart' Btn. You don't need to use an app and you can make it by yourself! It will take only 5 mins to install it on your theme
 
 ![Screenshot_1](https://user-images.githubusercontent.com/72150923/136978287-591490cc-534e-41b1-a0e1-f287515129a8.png)
 
